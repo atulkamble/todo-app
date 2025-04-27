@@ -1,5 +1,5 @@
 Node JS App on EC2 with git 
-
+```
 // clone repo 
 
 git clone https://github.com/atulkamble/todo-app.git
@@ -41,3 +41,4 @@ clear
 git add .
 git commit -m "code"
 git push origin main
+```
